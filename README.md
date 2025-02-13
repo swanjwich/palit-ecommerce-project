@@ -1,12 +1,13 @@
 🛒 PALIT - E-Commerce Platform
 
-📌 Project Overview
+## 📌 Project Overview
 This is an e-commerce platform developed as part of our IT15 (Integrative Programming and Technologies) course. The project is built using ASP.NET Core MVC as the framework and SSMS (SQL Server Management Studio) as the database.
 
-🔧 Technologies Used
+## 🔧 Technologies Used
 Frontend & Backend: ASP.NET Core MVC
 Database: SQL Server (SSMS)
-APIs:
+
+## APIs:
 PayMaya (Payment integration)
 MailGun (Email notifications)
 Entity Framework (for database management)
