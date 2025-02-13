@@ -26,6 +26,25 @@ Entity Framework (for database management)
 ![Shop](screenshots/Shop2.png)  
 ![About](screenshots/About.png)  
 
+![Login](screenshots/Login.png)  
+![Register](screenshots/Register.png)  
+
+Customer's end
+![Cart](screenshots/Cart.png)  
+![Checkout](screenshots/Checkout.png)  
+![PayMongo Checkout](screenshots/PayMongoCheckout.png)  
+![PayMongo Checkout](screenshots/PayMongoCheckout2.png)  
+![Order Successful](screenshots/OrderSuccessful.png)  
+![Orders](screenshots/Orders.png)  
+![Profile](screenshots/Profile.png)  
+![Change Password](screenshots/ChangePassword.png)  
+
+Admin's end
+![Admin Login](screenshots/AdminLogin.png)  
+![Admin Dashboard](screenshots/AdminDashboard.png)  
+![Admin Produdcts Management](screenshots/Products.png)  
+![Admin Order Management](screenshots/PayMongoCheckout2.png)  
+
 👥 Contributors
 Hannah Grace M. Tano - Full Stack Developer
 Oscar Jay Queman - Backend Developer
