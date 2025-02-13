@@ -48,6 +48,6 @@ Admin's end
 ![Admin Produdcts Management](screenshots/Products.png)  
 ![Admin Order Management](screenshots/PayMongoCheckout2.png)  
 
-👥 Contributors
-Hannah Grace M. Tano - Full Stack Developer
-Oscar Jay Queman - Backend Developer
+## 👥 Contributors
+Hannah Grace M. Tano - Full Stack Developer  
+Oscar Jay Queman - Backend Developer  
