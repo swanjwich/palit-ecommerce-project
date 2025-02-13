@@ -4,13 +4,13 @@
 This is an e-commerce platform developed as part of our IT15 (Integrative Programming and Technologies) course. The project is built using ASP.NET Core MVC as the framework and SSMS (SQL Server Management Studio) as the database.
 
 ## 🔧 Technologies Used
-**Frontend & Backend:** ASP.NET Core MVC
-**Database:** SQL Server (SSMS)
+**Frontend & Backend:** ASP.NET Core MVC  
+**Database:** SQL Server (SSMS)  
 
 ## APIs:
-**PayMaya (Payment integration)**
-**MailGun (Email notifications)**
-**Entity Framework (for database management)**
+**PayMaya (Payment integration)**  
+**MailGun (Email notifications)**  
+**Entity Framework (for database management)**  
 
 ## 🚀 Features
 **✅ User authentication (Login/Register)**
