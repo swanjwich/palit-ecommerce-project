@@ -10,7 +10,7 @@ This is an e-commerce platform developed as part of our IT15 (Integrative Progra
 **Database:** SQL Server (SSMS)  
 
 ## APIs:
-**PayMaya (Payment integration)**  
+**PayMongo (Payment integration)**  
 **MailGun (Email notifications)**  
 **Entity Framework (for database management)**  
 
