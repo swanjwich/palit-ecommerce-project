@@ -18,7 +18,7 @@ This is an e-commerce platform developed as part of our IT15 (Integrative Progra
 **✅ User authentication (Login/Register)**  
 **✅ Product listing and search functionality**  
 **✅ Shopping cart and checkout process**  
-**✅ Payment integration with PayMaya**  
+**✅ Payment integration with PayMongo**  
 **✅ Email notifications via MailGun**  
 **✅ Order tracking**  
 
